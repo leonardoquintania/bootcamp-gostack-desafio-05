@@ -3,7 +3,6 @@
 <h3 align="center">
   Desafio 05: Primeiro projeto Node.js
 </h3>
-
 <blockquote align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
 
 <p align="center">
